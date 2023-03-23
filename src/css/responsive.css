@@ -114,7 +114,7 @@
         grid-column: 1 / 1;
         grid-row: 1 / 1;
     }
-    .main-news img, .main-news, .section .top-news{
+    .main-news img, .main-news, .description p, .section .top-news{
         width: 320px;
     }
     .main-news{
