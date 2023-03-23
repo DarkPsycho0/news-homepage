@@ -8,7 +8,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100%;
+    height: 100vh;
     max-width: 1110px;
     margin: 0 auto;
 }
@@ -117,7 +117,7 @@ body{
 }
 .top-news div{
     display: flex;
-    width: 350px;
+    width: 340px;
 }
 .top-news div img{
     width: 100px;
