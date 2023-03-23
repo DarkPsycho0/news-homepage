@@ -100,11 +100,30 @@
 }
 
 @media(max-width:425px) {
-    .container {
-        height: 100%;
+    .open{
+        display: block;
     }
     .header ul{
         display: none;
+    }
+    .header ul{
+        flex-direction: column;
+        position: absolute;
+        background-color: #fff;
+        top: 0;
+        right: 0;
+        width: 260px;
+        height: 100%;
+        padding: 100px 20px;
+        font-size: 20px;
+    }
+    .header ul li:first-child{
+        position: absolute;
+        top: 20px;
+        right: 20px;
+    }
+    .container {
+        height: 100%;
     }
     .section {
         grid-template-columns: repeat(1, auto);

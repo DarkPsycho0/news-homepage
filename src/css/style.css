@@ -24,6 +24,10 @@ body{
     gap: 40px;
     align-items: center;
 }
+.header ul li img{
+    width: 40px;
+    height: 44px;
+}
 .header ul li a{
     color: hsl(236, 13%, 42%);
     transition:0.2s ease-in-out;
@@ -141,4 +145,10 @@ body{
 .top-news p{
     line-height: 25px;
     color: hsl(236, 13%, 42%);
+}
+.open{
+    display: none;
+}
+.menu.none, .close.none, .none{
+    display: none;
 }
