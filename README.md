@@ -11,7 +11,30 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-<h2 align="center">
-    🚧 🏗️ under construction🏗️ 🚧
-</h2>
-<img src="./src/images/Page_Under_Construction.png">
+#### Desktop Screenshot 🖥️
+
+<img src="./src/images/desktop-screenshot.png">
+
+#### Active State 🖥️
+<img src="./src/images/active-states.png">
+
+#### Mobile Screenshot 📱
+
+<img src="./src/images/mobile-screenshot.png">
+
+#### Mobile Active States 📱
+
+<img src="./src/images/mobile-active-states.png">
+
+### link 🔗
+
+- Live Site URL: https://lkiryu.github.io/news-homepage/
+
+### Built with 🛠️
+
+- HTML5
+- CSS
+- JS
+---
+### Author 👨‍💻
+ Made by Matheus Antonio

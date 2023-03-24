@@ -109,11 +109,11 @@
     .header ul{
         flex-direction: column;
         position: absolute;
-        background-color: #fff;
+        background-color: #f0f0f0;
         top: 0;
         right: 0;
-        width: 260px;
-        height: 100%;
+        width: 70%;
+        height: 1700px;
         padding: 100px 20px;
         font-size: 20px;
     }
